@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">Dream Big, Code Bigger 🚀💻</h3>
 
-<img align="right" alt="Coding" width="350" src="https://media4.giphy.com/media/eYvrQb8XOBhSE0UXGa/giphy.webp?cid=ecf05e47d99kz7l1mlwg4g0iks5ljmxwolr2mh8kc69no1pw&ep=v1_gifs_related&rid=giphy.webp&ct=g">
+<img align="right" alt="Coding" width="450" src="https://media4.giphy.com/media/pbIavlMZE7TkcVriMM/giphy.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanhossain12&label=Profile%20views&color=0e75b6&style=flat" alt="amanhossain12" /> </p>
 
