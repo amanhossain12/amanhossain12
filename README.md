@@ -1,11 +1,11 @@
-<h1 align="left">Hi 👋, I'm Aman</h1>
-<h3 align="left">Dream Big, Code Bigger 🚀💻</h3>
+<h1 align="center">Hi 👋, I'm Aman</h1>
+<h3 align="center">Dream Big, Code Bigger 🚀💻</h3>
 
 <img align="right" alt="Coding" width="350" src="https://media4.giphy.com/media/eYvrQb8XOBhSE0UXGa/giphy.webp?cid=ecf05e47d99kz7l1mlwg4g0iks5ljmxwolr2mh8kc69no1pw&ep=v1_gifs_related&rid=giphy.webp&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanhossain12&label=Profile%20views&color=0e75b6&style=flat" alt="amanhossain12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanhossain12" alt="amanhossain12" /></a> </p>
+
 
 - 🔭 I’m currently working on **A Full Stack Projects to enhance my skills and grow as a better web developer.**
 
